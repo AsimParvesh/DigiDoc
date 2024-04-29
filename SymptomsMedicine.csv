@@ -1,0 +1,242 @@
+Symptoms,Causes,Disease,Medicine
+"Fever, Cough , High temperature, Elevated body temperature , Dry cough, Persistent cough",Viral Infection,Common Cold,"Ibuprofen, Rest"
+"Headache, Fatigue, Head pain, Head discomfort, Tiredness, Exhaustion",Stress,Migraine,Sumatriptan
+"Shortness of breath, Difficulty breathing, Breathlessness",Pollution,Asthma,Albuterol Inhaler
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Sore Throat, Throat pain, Scratchy throat",Bacterial Infection,Strep Throat,Penicillin
+"Joint Pain, Fatigue, Joint ache, Joint discomfort, Tiredness, Exhaustion",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Chest Pain, Dizziness, Chest discomfort, Chest tightness, Lightheadedness, Vertigo",High Blood Pressure,Hypertension,Amlodipine
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction,Antihistamine
+"Abdominal Pain, Bloating, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",Poor Diet,Indigestion,Antacids
+"Fatigue, Sadness, Tiredness, Exhaustion, Unhappiness, Melancholy",Depression,Major Depressive,Sertraline
+"Fever, Muscle Aches, High temperature, Elevated body temperature, Sore muscles, Body pain",Viral Infection,Influenza,Acetaminophen
+"Cough, Sneezing, Dry cough, Persistent cough, Sniffling, Runny nose",Cold Weather,Common Cold,"Honey, Rest"
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Shortness of breath, Difficulty breathing, Breathlessness",Smoking,Chronic Bronchitis,Inhalers
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Migraine Triggers,Migraine,Beta-blockers
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Spicy Food,Gastritis,"Antacids, Rest"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Autoimmune Response,Rheumatoid Arthritis,NSAIDs
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Herniated Disc,Sciatica,Pain Relievers
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Pregnancy,Morning Sickness,"Ginger, Vitamin B6"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Anemia,Iron Deficiency,Iron Supplements
+"Anxiety, Rapid Heartbeat, Nervousness, Racing heart, Palpitations, Heart pounding",Stress,Panic Disorder,Cognitive Therapy
+"Shortness of breath, Difficulty breathing, Breathlessness",Obesity,Sleep Apnea,CPAP Machine
+"Skin Rash, Itching, Rash, Skin irritation, Pruritus, Redness",Allergies,Dermatitis,Topical Steroids
+"Cough, Fever, Dry cough, Persistent cough, High temperature, Elevated body temperature",Viral Infection,Respiratory infection,"Antivirals, Rest"
+"Joint Pain, Fatigue, Joint ache, Joint discomfort, Tiredness, Exhaustion",Osteoarthritis,Arthritis,Pain Relievers
+"Dizziness, Fatigue, Lightheadedness, Tiredness, Wooziness, Feeling faint",Dehydration,Heat Exhaustion,"Hydration, Rest"
+"Headache, Sensitivity, Head pain, Sensory discomfort, Light sensitivity, Sound sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating O, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",vereating            ,Indigestion,Antacids
+"Nausea, Cramps, Queasiness, Stomach discomfort, Bellyache, Abdominal cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers
+"Chest Pain, Shortness of breath, Chest discomfort, Chest tightness, Difficulty breathing, Breathlessness",Heart Disease,Coronary ArteryDisease,Nitroglycerin
+"Fatigue, Difficulty breathing, Tiredness, Breathlessness, Exhaustion, Shortness of breath",Hypothyroidism,Thyroid Disorder,Levothyroxine
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fever, Cough, High temperature, Elevated body temperature, Dry cough, Persistent cough",Viral Infection,Common Cold,"Ibuprofen, Rest"
+"Headache, Fatigue, Head pain, Head discomfort, Tiredness, Exhaustion",Stress,Migraine,Sumatriptan
+"Shortness of breath, Difficulty breathing, Breathlessness",Pollution,Asthma,Albuterol Inhaler
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Sore Throat, Throat pain, Scratchy throat",Bacterial Infection,Strep Throat,Penicillin
+"Joint Pain, Fatigue, Joint ache, Joint discomfort, Tiredness, Exhaustion",Rheumatoid Arthriti,s  Arthritis,NSAIDs
+"Chest Pain, Dizziness, Chest discomfort, Chest tightness, Lightheadedness, Vertigo",High Blood Pressure,Hypertension,Amlodipine
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction,Antihistamine
+"Abdominal Pain, Bloating, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",Poor Diet,Indigestion,Antacids
+"Fatigue, Sadness, Tiredness, Exhaustion, Unhappiness, Melancholy",Depression,Major Depressive Disorder, Sertraline
+"Chest Pain, Shortness of breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breat, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",h  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reacti,on   Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder," Therapy, Medication"
+"Chest Pain, Shortness, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue,"Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breat, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",h  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reacti,on   Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder," Therapy, Medication"
+"Chest Pain, Shortness of breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis, Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Abdominal Pain, Bloating, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",Overeating,Indigestion,Antacids
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Anemia,Iron Deficiency,Iron Supplements
+"Anxiety, Rapid Heartbeat, Nervousness, Racing heart, Palpitations, Heart pounding",Stress,Panic Disorder,Cognitive Therapy
+"Shortness of breath, Difficulty breathing, Breathlessness",Obesity,Sleep Apnea,CPAP Machine
+"Skin Rash, Itching, Rash, Skin irritation, Pruritus, Redness",Allergies,Dermatitis,Topical Steroids
+"Cough, Fever, Dry cough, Persistent cough, High temperature, Elevated body temperature",Viral Infection,RespiratoryInfection,"Antivirals, Rest"
+"Joint Pain, Fatigue, Joint ache, Joint discomfort, Tiredness, Exhaustion",Osteoarthritis,Arthritis,Pain Relievers
+"Dizziness, Fatigue, Lightheadedness, Tiredness, Wooziness, Feeling faint",Dehydration,Heat Exhaustion," Hydration, Rest"
+"Headache, Sensitivity, Head pain, Sensory discomfort, Light sensitivity, Sound sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",Overeating,Indigestion,Antacids
+"Nausea, Cramps, Queasiness, Stomach discomfort, Abdominal pain, Stomach cramps",Menstrual Cycle,Menstrual Cramps, Pain Relievers
+"Chest Pain, Shortness of breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Heart Disease,Coronary Artery,"  Nitroglycerin,Aspirin"
+"Fatigue, Difficulty breathing, Tiredness, Exhaustion, Breathing trouble, Shortness of breath",Hypothyroidism,Thyroid Disorder,  Levothyroxine
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of brea, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",th  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction, Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,  Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"  Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"  Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthrit,is  Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness, Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of brea, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",th  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction, Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis, Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness, Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome," Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Sore Throat, Cough, Throat pain, Dry cough, Persistent cough, Scratchy throat",Bacterial Infection,Strep Throat,Penicillin
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Anemia,Iron Deficiency,Iron Supplements
+"Anxiety, Rapid Heartbeat, Nervousness, Racing heart, Palpitations, Heart pounding",Stress,Panic Disorder,Cognitive Therapy
+"Shortness of breath, Difficulty breathing, Breathlessness",Obesity,Sleep Apnea,CPAP Machine
+"Skin Rash, Itching, Rash, Skin irritation, Pruritus, Redness",Allergies,Dermatitis,Topical Steroids
+"Cough, Fever, Dry cough, Persistent cough, High temperature, Elevated body temperature",Viral Infection,Respiratory Infection,"Antivirals, Rest"
+"Joint Pain, Fatigue, Joint ache, Joint discomfort, Tiredness, Exhaustion",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Dizziness, Fatigue, Lightheadedness, Tiredness, Wooziness, Feeling faint",Dehydration,Heat Exhaustion,"Hydration, Rest"
+"Headache, Sensitivity, Head pain, Sensory discomfort, Light sensitivity, Sound sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",Overeating,Indigestion,Antacids
+"Nausea, Cramps, Queasiness, Stomach discomfort, Abdominal pain, Stomach cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers
+"Chest Pain, Shortness of breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Heart Disease,Coronary Artery Disease,"Nitroglycerin,Aspirin"
+"Fatigue, Difficulty breathing, Tiredness, Exhaustion, Breathing trouble, Shortness of breath",Hypothyroidism,Thyroid Disorder,Levothyroxine
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath, Dry cough, Persistent cough, Difficulty breathing, Breathlessness", COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness of breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness of breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Sore Throat, Cough, Throat pain, Dry cough, Persistent cough, Scratchy throat",Bacterial Infection,Strep Throat,Penicillin
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Anemia,Iron Deficiency,Iron Supplements
+"Anxiety, Rapid Heartbeat, Nervousness, Racing heart, Palpitations, Heart pounding",Stress,Panic Disorder,Cognitive Therapy
+"Shortness of breath, Difficulty breathing, Breathlessness",Obesity,Sleep Apnea,CPAP Machine
+"Skin Rash, Itching, Rash, Skin irritation, Pruritus, Redness",Allergies,Dermatitis,Topical Steroids
+"Cough, Fever, Dry cough, Persistent cough, High temperature, Elevated body temperature",Viral Infection,Respiratory,"Antivirals, Rest"
+"Joint Pain, Fatigue, Joint ache, Joint discomfort, Tiredness, Exhaustion",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Dizziness, Fatigue, Lightheadedness, Tiredness, Wooziness, Feeling faint",Dehydration,Heat Exhaustion,"Hydration, Rest"
+"Headache, Sensitivity, Head pain, Sensory discomfort, Light sensitivity, Sound sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+"Abdominal Pain, Bloating, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",Overeating,Indigestion,Antacids
+"Nausea, Cramps, Queasiness, Stomach discomfort, Abdominal pain, Stomach cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers
+"Chest Pain, Shortness, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Heart Disease,Coronary Artery,Nitroglycerin
+"Fatigue, Difficulty, Tiredness, Exhaustion, Lack of energy, Breathing trouble",Hypothyroidism,Thyroid Disorder,Levothyroxine
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breat, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",h COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Cough, Shortness of breath, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies,Allergic Reaction,Antihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning,Gastroenteritis,Oral Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+"Stomach Pain, Diarrhea, Abdominal pain, Loose stools, Bowel discomfort, Upset stomach",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+"Back Pain, Numbness, Spine discomfort, Tingling sensation, Lack of sensation, Pins and needles",Sciatica,Herniated Disc,"Pain Relievers, PT"
+"Fever, Sore Throat, High temperature, Elevated body temperature, Throat pain, Scratchy throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Anxiety, Palpitations, Nervousness, Racing heart, Heart pounding, Heart palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+"Chest Pain, Shortness of breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+"Joint Pain, Swelling, Joint ache, Joint discomfort, Inflamed joints, Joint inflammation",Rheumatoid Arthritis,Arthritis,NSAIDs
+"Nausea, Dizziness, Queasiness, Lightheadedness, Wooziness, Feeling faint",Motion Sickness,Motion Sickness,Dimenhydrinate
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Chronic FatigueSyndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection,Pneumonia,"Antibiotics, Rest"
+"Sore Throat, Cough, Throat pain, Dry cough, Persistent cough, Scratchy throat",Bacterial Infection ,Strep Throat     ,Penicillin
+"Fatigue, Weakness, Tiredness, Exhaustion, Lack of energy, Debility",Anemia              ,Iron Deficiency ,Iron Supplements
+"Anxiety, Rapid Heartbeat, Nervousness, Racing heart, Palpitations, Heart pounding",Stress              ,Panic Disorder  ,Cognitive Therapy
+"Shortness of breath, Difficulty breathing, Breathlessness",Obesity             ,Sleep Apnea     ,CPAP Machine
+"Skin Rash, Itching, Rash, Skin irritation, Pruritus, Redness",Allergies           ,Dermatitis      ,Topical Steroids
+"Cough, Fever, Dry cough, Persistent cough, High temperature, Elevated body temperature",Viral Infection     ,Respiratory     AntiInfection,"virals, Rest"
+"Joint Pain, Fatigue, Joint ache, Joint discomfort, Tiredness, Exhaustion",Rheumatoid Arthritis ,Arthritis     ,  NSAIDs
+"Dizziness, Fatigue, Lightheadedness, Tiredness, Wooziness, Feeling faint",Dehydration         ,Heat Exhaustion Hydr,"ation, Rest"
+"Headache, Sensitivity, Head pain, Sensory discomfort, Light sensitivity, Sound sensitivity",Tension             ,Tension Headache Rel,"axation, NSAIDs"
+"Abdominal Pain, Bloating, Stomach ache, Tummy pain, Abdominal swelling, Feeling bloated",Overeating          ,Indigestion     Anta,cids
+"Nausea, Cramps, Queasiness, Stomach discomfort, Abdominal pain, Stomach cramps",Menstrual Cycle    ,Menstrual Cramps Pai,n Relievers
+"Chest Pain, Shortnessof breath, Chest discomfort, Difficulty breathing, Breathlessness, Chest tightness",Heart Disease       ,Coronary Artery Disease   ,"Nitroglycerin,Aspirin"
+"Fatigue, Difficulty breathing, Tiredness, Exhaustion, Breathing trouble, Shortness of breath",Hypothyroidism      ,Disease         , Levothyroxine
+"Fever, Chills, High temperature, Elevated body temperature, Shivering, Tremors",Infection           ,Pheumonia      ," Antibiotics, Rest"
+"Cough, Shortness of breath, Dry cough, Persistent cough, Difficulty breathing, Breathlessness",COVID-19 Exposure   ,COVID-19      ,"  Isolation, Fluids"
+"Itching, Redness, Skin irritation, Scratching sensation, Skin inflammation, Skin irritation",Allergies           ,Allergic Reaction An,tihistamine
+"Muscle Pain, Fatigue, Muscular discomfort, Sore muscles, Tiredness, Exhaustion",Overexertion        ,Muscle Strain  ," Rest, Pain Relievers"
+"Nausea, Vomiting, Queasiness, Upset stomach, Throwing up, Puking",Food Poisoning  ,Muscle Strain  ,Rehydration
+"Headache, Blurred Vision, Head pain, Vision impairment, Eye pain, Eyesight problem",Eye Strain          ,Muscle Strain  ,Eye Exercises
