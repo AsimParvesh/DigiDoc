@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 # Load the dataset for Symptoms Checker page
 @st.cache_data
 def load_symptoms_data():
-    data = pd.read_csv("CSV\SymptomsMedicine.csv")
+    data = pd.read_csv("SymptomsMedicine.csv")
     return data
 
 
@@ -17,7 +17,7 @@ def load_symptoms_data():
 # Load the dataset for Drug Verifier page
 @st.cache_data
 def load_drug_data():
-    data = pd.read_csv("CSV\MedicineDetails.csv")
+    data = pd.read_csv("MedicineDetails.csv")
     return data
 
 
@@ -25,7 +25,7 @@ def load_drug_data():
 # Load the dataset for Home Remedies page
 @st.cache_data
 def load_remedies_data():
-    data = pd.read_csv("CSV\HomeRemedies.csv")
+    data = pd.read_csv("HomeRemedies.csv")
     return data
 
 
